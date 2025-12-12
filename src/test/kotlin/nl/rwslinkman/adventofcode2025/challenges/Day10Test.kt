@@ -26,6 +26,6 @@ class Day10Test {
 
         val result = Day10.part2(exampleData)
 
-        assertEquals(33, result)
+        assertEquals(33L, result)
     }
 }

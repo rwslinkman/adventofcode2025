@@ -11,6 +11,7 @@ repositories {
 
 dependencies {
     implementation("org.jetbrains.kotlin:kotlin-reflect:2.2.10")
+    implementation("tools.aqua:z3-turnkey:4.14.1")
     testImplementation(kotlin("test"))
 }
 

@@ -50,6 +50,7 @@ object Day12: AdventChallenge {
     }
 
     override fun part2(inputString: String): Any {
+        // Free star :)
         return 0
     }
 }
